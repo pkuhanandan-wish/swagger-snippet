@@ -1,10 +1,10 @@
 {
-  "name": "swagger-snippet",
-  "version": "0.6.1",
+  "name": "swagger-snippet-wish",
+  "version": "0.1.0",
   "description": "Generates code snippets for given Swagger / Open API Specification files",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ErikWittern/swagger-snippet"
+    "url": "https://github.com/pkuhanandan-wish/swagger-snippet"
   },
   "keywords": [
     "HTTP",
@@ -12,7 +12,7 @@
     "Swagger",
     "OpenAPI Specification"
   ],
-  "author": "Erik Wittern",
+  "author": "PK (Forked from Erik Wittern)",
   "license": "MIT",
   "main": "index.js",
   "scripts": {
