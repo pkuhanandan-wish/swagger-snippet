@@ -3,6 +3,12 @@
 
 This package takes as input a Swagger 2.0 / OpenAPI v3.0.x specification. It translates the specification into an [HTTP Archive 1.2 request object](http://www.softwareishard.com/blog/har-12-spec/#request). It uses the [HTTP Snippet](https://github.com/Mashape/httpsnippet) library to generate code snippets for every API endpoint (URL path + HTTP method) defined in the specification in various languages & tools (`cURL`, `Node`, `Python`, `Ruby`, `Java`, `Go`, `C#`...).
 
+## Release Process
+1. First you'll need an npm account: https://docs.npmjs.com/creating-a-new-npm-user-account 
+2. Then ping @pkuhanandan to be added as an owner.
+3. Now you should be able to modify and publish new versions of the package. Refer to the `npm publish` docs on how to publish new versions of the library: https://docs.npmjs.com/cli/publish
+
+
 ## Installation
 
 ```bash
