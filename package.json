@@ -12,7 +12,7 @@
     "Swagger",
     "OpenAPI Specification"
   ],
-  "author": "PK (Forked from Erik Wittern)",
+  "author": "ContextLogic Inc",
   "license": "MIT",
   "main": "index.js",
   "scripts": {
